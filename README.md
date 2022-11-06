@@ -4,7 +4,8 @@ Name: Michael Synnott
 Date: 11/5/22
 
 This is my code for assignment Lab B. This assignment creates an application that allows a user to store any issues about a project. The file that I created 
-is IssueTrackingLite.fxml, as per the tutorial. The file IssueTrackingLiteComplete.fxml is the tutorial's final version of the application.
+is IssueTrackingLite.fxml, as per the tutorial. The file IssueTrackingLiteComplete.fxml is the tutorial's final version of the application. I had to comment out
+the getLogger method in the App file because it is currently unsupported.
 
 https://docs.oracle.com/javafx/scenebuilder/1/get_started/jsbpub-get_started.htm 
 
