@@ -7,6 +7,8 @@ This is my code for assignment Lab B. This assignment creates an application tha
 is IssueTrackingLite.fxml, as per the tutorial. The file IssueTrackingLiteComplete.fxml is the tutorial's final version of the application. I had to comment out
 the getLogger method in the App file because it is currently unsupported.
 
+I had a little help from Joe Kowalski.
+
 https://docs.oracle.com/javafx/scenebuilder/1/get_started/jsbpub-get_started.htm 
 
 ![2022-11-05 (66)](https://user-images.githubusercontent.com/116577781/200149694-a24fa9a5-5197-4988-9ceb-ce1fe1ada252.png)
